@@ -17,23 +17,27 @@ const Services = () => {
           <ul className="service__list">
             <li>
               <BiCheck className="service__list-icon" />
-              <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit.</p>
+              <p>Website Design and Development.</p>
             </li>
             <li>
               <BiCheck className="service__list-icon" />
-              <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit.</p>
+              <p>Front-End Development.</p>
             </li>
             <li>
               <BiCheck className="service__list-icon" />
-              <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit.</p>
+              <p>Custom Web Application Development.</p>
             </li>
             <li>
               <BiCheck className="service__list-icon" />
-              <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit.</p>
+              <p>Content Management Systems CMS.</p>
             </li>
             <li>
               <BiCheck className="service__list-icon" />
-              <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit.</p>
+              <p>Web Consulting and Strategy.</p>
+            </li>
+            <li>
+              <BiCheck className="service__list-icon" />
+              <p>Web Application Testing.</p>
             </li>
           </ul>
         </article>
@@ -47,23 +51,27 @@ const Services = () => {
           <ul className="service__list">
             <li>
               <BiCheck className="service__list-icon" />
-              <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit.</p>
+              <p>Data Cleaning and Preprocessing.</p>
             </li>
             <li>
               <BiCheck className="service__list-icon" />
-              <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit.</p>
+              <p>Data Exploration and Visualization.</p>
             </li>
             <li>
               <BiCheck className="service__list-icon" />
-              <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit.</p>
+              <p>Descriptive and Exploratory Analysis.</p>
             </li>
             <li>
               <BiCheck className="service__list-icon" />
-              <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit.</p>
+              <p>Data Interpretation and Insight Generation.</p>
             </li>
             <li>
               <BiCheck className="service__list-icon" />
-              <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit.</p>
+              <p>Market and Competitive Analysis.</p>
+            </li>
+            <li>
+              <BiCheck className="service__list-icon" />
+              <p>Data Visualization and Storytelling.</p>
             </li>
           </ul>
         </article>
@@ -77,23 +85,23 @@ const Services = () => {
           <ul className="service__list">
             <li>
               <BiCheck className="service__list-icon" />
-              <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit.</p>
+              <p>Social Media Content Creation.</p>
             </li>
             <li>
               <BiCheck className="service__list-icon" />
-              <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit.</p>
+              <p>Article and Blog Writing.</p>
             </li>
             <li>
               <BiCheck className="service__list-icon" />
-              <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit.</p>
+              <p>Content Editing and Proofreading.</p>
             </li>
             <li>
               <BiCheck className="service__list-icon" />
-              <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit.</p>
+              <p>Technical Writing.</p>
             </li>
             <li>
               <BiCheck className="service__list-icon" />
-              <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit.</p>
+              <p>Interviews and Q&A Content.</p>
             </li>
           </ul>
         </article>

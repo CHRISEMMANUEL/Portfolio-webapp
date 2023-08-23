@@ -1,9 +1,11 @@
 footer {
   background: var(--color-primary);
-  padding: 3rem 0;
+  height: 250px;
+  padding: 0px;
   text-align: center;
   font-size: 0.9rem;
   margin-top: 7rem;
+  overflow: auto;
 }
 
 footer a {
@@ -48,7 +50,7 @@ footer a {
 }
 
 .footer__copyright {
-  margin-bottom: 4rem;
+  margin-bottom: 8rem;
   color: var(--color-bg);
 }
 

@@ -20,14 +20,14 @@ const data = [
     id: 2,
     image: IMG2,
     title: "Maven market analysis on powerbi",
-    github: "https://github.com",
+    github: "https://github.com/CHRISEMMANUEL/Maven-market-analysis",
     demo: "https://www.novypro.com/project/maven-market-dashboard",
   },
   {
     id: 3,
     image: IMG3,
     title: "Sales Dashboard analysis on powerbi",
-    github: "https://github.com",
+    github: "https://github.com/CHRISEMMANUEL/Sale-Analytic-Dashboard",
     demo: "https://www.novypro.com/project/sales-13",
   },
   {
