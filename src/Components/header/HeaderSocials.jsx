@@ -7,7 +7,7 @@ const HeaderSocials = () => {
   return (
     <div className="header__Socials">
       <a
-        href="https://linkedin.com/chrisemmanuel/"
+        href="https://www.linkedin.com/in/chrisemmanuel4u/"
         aria-label="LinkedIn Profile"
       >
         <BsLinkedin />
