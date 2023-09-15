@@ -44,14 +44,14 @@ const Experience = () => {
               <BsPatchCheckFill className="experience__details-icons" />
               <div>
                 <h4>Tailwind</h4>
-                <small className="text-light">Novice</small>
+                <small className="text-light">Intermediate</small>
               </div>
             </article>
             <article className="experience__details">
               <BsPatchCheckFill className="experience__details-icons" />
               <div>
                 <h4>React</h4>
-                <small className="text-light">Intermediate</small>
+                <small className="text-light">Experienced</small>
               </div>
             </article>
           </div>

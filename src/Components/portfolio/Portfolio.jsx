@@ -3,7 +3,7 @@ import "./Portfolio.css";
 import IMG1 from "../../assets/dashboard1.png";
 import IMG2 from "../../assets/dashboard2.png";
 import IMG3 from "../../assets/dashboard3.jpg";
-import IMG4 from "../../assets/portfolio4.jpg";
+import IMG4 from "../../assets/portfolio4.png";
 import IMG5 from "../../assets/portfolio5.png";
 import IMG6 from "../../assets/dashboard6.jpg";
 
@@ -14,7 +14,7 @@ const data = [
     image: IMG1,
     title: "Covid19 Dashboard analysis on ms-excel",
     github: "https://github.com",
-    demo: "https://github.com",
+    demo: "https://github.com/CHRISEMMANUEL/",
   },
   {
     id: 2,
@@ -33,22 +33,22 @@ const data = [
   {
     id: 4,
     image: IMG4,
-    title: "Maintaining task and tracking progress",
-    github: "https://github.com",
-    demo: "https://github.com",
+    title: "Hr Dashboard Visualization",
+    github: "https://github.com/CHRISEMMANUEL/Hr-Analytics-Dashboard",
+    demo: "https://www.novypro.com/project/hr-analytics-dashboard-85",
   },
   {
     id: 5,
     image: IMG5,
-    title: "Chat template and infographics on Figma",
-    github: "https://github.com",
-    demo: "https://github.com",
+    title: "NaijaEats Demo app",
+    github: "https://github.com/CHRISEMMANUEL/",
+    demo: "https://naija-eats-dql3.vercel.app/",
   },
   {
     id: 6,
     image: IMG6,
     title: "Real Estate property management Dashboard analysis on powerbi",
-    github: "https://github.com",
+    github: "https://github.com/CHRISEMMANUEL/",
     demo: "https://www.novypro.com/project/estate-management-",
   },
 ];

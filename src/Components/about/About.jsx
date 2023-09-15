@@ -38,10 +38,9 @@ const About = () => {
           </div>
 
           <p>
-            I'm an undergrad in the university of Obafemi Awolowo, studying
-            computer with mathematics. i have gain profectional experience in
-            data analytic using the following tools EXCEL, SQL,POWER-BI, TABLEAU
-            and PYTHON.
+            CSE undergrad, studying computer with mathematics. i have gain
+            profectional experience in data analytic using the following tools
+            EXCEL, SQL,POWER-BI, TABLEAU and PYTHON. and Frontend dev .
           </p>
 
           <a href="#contact" className="btn btn-primary">
